@@ -1,0 +1,15 @@
+.button-container {
+  /* Gaya umum untuk kedua tombol */
+  display: flex;
+  justify-content: center;
+}
+
+.button {
+  /* Gaya dasar untuk tombol */
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 5px;
+}
+
