@@ -1,0 +1,51 @@
+[
+    {
+        "car_name": "Lamborghini Yellow",
+        "image": "https://imgcdn.oto.com/large/gallery/exterior/21/175/lamborghini-aventador-front-angle-low-view-871719.jpg",
+        "month_rate": 6,
+        "day_rate": 2,
+        "id": "18"
+    },
+    {
+        "car_name": "Pagani",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTuc-GrKJkqrw1Ag4-tboxCQTqI5hUn8gOqA&s",
+        "month_rate": "55",
+        "day_rate": "20",
+        "id": "20"
+    },
+    {
+        "car_name": "Lamborghini Ninda",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Vcmk5TGctlkrUACMRrFBvgTW1uXUx1GixQ&s",
+        "month_rate": "80",
+        "day_rate": "15",
+        "id": "21"
+    },
+    {
+        "car_name": "Anventador",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMC72pO0wQJHGa-3EB9Kbj77AJe0nBE7WTQA&s",
+        "month_rate": "9",
+        "day_rate": "9",
+        "id": "22"
+    },
+    {
+        "car_name": "esemka",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTuc-GrKJkqrw1Ag4-tboxCQTqI5hUn8gOqA&s",
+        "month_rate": "2",
+        "day_rate": "2",
+        "id": "24"
+    },
+    {
+        "car_name": "Gallardo Ninda",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStWXgo-dxQ_R-GKsB4KgsHw696Oj-_7x7gtw&s",
+        "month_rate": "9",
+        "day_rate": "10",
+        "id": "25"
+    },
+    {
+        "car_name": "Lambo Gallardo",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTuc-GrKJkqrw1Ag4-tboxCQTqI5hUn8gOqA&s",
+        "month_rate": "8",
+        "day_rate": "5",
+        "id": "26"
+    }
+]

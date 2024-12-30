@@ -1,0 +1,11 @@
+[
+    {
+        "CarId": "24",
+        "order_date": "2024-12-09",
+        "pickup_date": "2024-12-10",
+        "dropoff_date": "2024-12-11",
+        "pickup_location": "shop",
+        "dropoff_location": "park",
+        "id": "6"
+    }
+]
